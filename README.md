@@ -17,15 +17,20 @@ Desenvolver modelo preditivo de receitas publicitárias por setor econômico. Us
 
 - Grupo 1 - GalA
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T12-IN03-G01
+  - https://github.com/Inteli-College/2024-2A-T12-IN03-G01
 
 - Grupo 2 - G2
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T12-IN03-G02
+  - https://github.com/Inteli-College/2024-2A-T12-IN03-G02
 
 - Grupo 3 - GazeTech 
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T12-IN03-G03
+  - https://github.com/Inteli-College/2024-2A-T12-IN03-G03
 
 - Grupo 4 - G4
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T12-IN03-G04
+  - https://github.com/Inteli-College/2024-2A-T12-IN03-G04
 
 - Grupo 5 - G5
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T12-IN03-G05
+  - https://github.com/Inteli-College/2024-2A-T12-IN03-G05
